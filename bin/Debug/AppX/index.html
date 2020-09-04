@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>DoorPrize5416</title>
+    <script src="js/doorprize.js"></script>
+    <style>.racer{border: 10px;}</style>
+</head>
+<body>
+    <div id="attendanceScreen" style="display: block">
+        <audio id="openingTheme">
+            <source src="starwarstheme.mp3" />
+        </audio>
+        <h1>Mission Objective: Destroy the Death Star!</h1>
+        <img src="openingCrawlWords.jpg" alt="background info" height="308" width="350" style="position: absolute; top: 97px; left: 325px" /><br>
+        <textarea id="names" rows="20" cols="40"></textarea><br><br>
+        <input id="submitButton" type="button" value="Choose Contestants!">
+    </div>
+
+    <div id="contestantScreen" style="display: none; height: 500px; color: black">
+        <img src="contestantScreenBG.jpg" alt="Rebel Base" />
+        <div id="r1" class="racer"></div>
+        <div id="r2" class="racer"></div>
+        <div id="r3" class="racer"></div>
+        <div id="r4" class="racer"></div>
+        <div id="r5" class="racer"></div>
+        <br>
+        <input id="raceButton" type="button" value="Deploy">
+        <input id="cancelButton" type="button" value="Cancel">
+    </div>
+
+    <div id="raceScreen" style="display: none; background-image: url(starWarsBG.jpg); color: white; height: 800px">
+        <audio id="raceSound">
+            <source src="XWing-Fly2.wav" />
+        </audio>
+        <audio id="tieSound">
+            <source src="TIE-Fire.wav" />
+        </audio>
+        <audio id="watchOut">
+            <source src="lookout.mp3" />
+        </audio>
+        <div id="racer1" class="racer"></div>
+        <div id="racer2" class="racer"></div>
+        <div id="racer3" class="racer"></div>
+        <div id="racer4" class="racer"></div>
+        <div id="racer5" class="racer"></div>
+        <div id="tieFighter"></div>
+        <div id="killOff" style="display: none;">
+            <img src="explosion.gif" alt="explosion" height="65" width="65" />
+        </div>
+        <div id="tieFighter1" style="display: none; position: absolute; left: 750px">
+            <img src="sneakAttack.png" alt="tieFighter" width="100" height="63" />
+        </div>
+        <div id="tieFighter2" style="display: none; position: absolute; left: 750px">
+            <img src="sneakAttack.png" alt="tieFighter" width="100" height="63" />
+        </div>
+        <div id="tieFighter3" style="display: none; position: absolute; left: 750px">
+            <img src="sneakAttack.png" alt="tieFighter" width="100" height="63" />
+        </div>
+        <div id="tieFighter4" style="display: none; position: absolute; left: 750px">
+            <img src="sneakAttack.png" alt="tieFighter" width="100" height="63" />
+        </div>
+        <div id="tieFighter5" style="display: none; position: absolute; left: 750px">
+            <img src="sneakAttack.png" alt="tieFighter" width="100" height="63" />
+        </div>
+        <div id="killOff1" style="display: none; position: absolute; left: 750px">
+            <img src="explosion.gif" alt="explosion" height="65" width="65" />
+        </div>
+        <div id="killOff2" style="display: none; position: absolute; left: 750px">
+            <img src="explosion.gif" alt="explosion" height="65" width="65" />
+        </div>
+        <div id="killOff3" style="display: none; position: absolute; left: 750px">
+            <img src="explosion.gif" alt="explosion" height="65" width="65" />
+        </div>
+        <div id="killOff4" style="display: none; position: absolute; left: 750px">
+            <img src="explosion.gif" alt="explosion" height="65" width="65" />
+        </div>
+        <div id="killOff5" style="display: none; position: absolute; left: 750px">
+            <img src="explosion.gif" alt="explosion" height="65" width="65" />
+        </div>
+    </div>
+
+    <div id="winnerScreen" style="display: none">
+        <audio id="EEWinnerSound">
+            <source src="DStar-Super2.wav" />
+        </audio>
+        <audio id="DSExplode">
+            <source src="deathstarexplode.mp3" />
+        </audio>
+
+        <div id="podium"></div>
+
+        <input type="button" value="New Race" id="newRaceButton" />
+
+    </div>
+    
+</body>
+</html>

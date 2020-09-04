@@ -1,0 +1,17 @@
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bin\Debug\ReverseMap\resources.pri
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bin\Debug\AppxManifest.xml
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bin\Debug\DoorPrize5416.build.appxrecipe
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\DoorPrize5416.jsproj.CoreCompileInputs.cache
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\ResourceHandlingTask.state
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\priconfig.xml
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\priconfig.xml.intermediate
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\layout.resfiles
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\layout.resfiles.intermediate
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\resources.resfiles
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\resources.resfiles.intermediate
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\pri.resfiles
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\pri.resfiles.intermediate
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\qualifiers.txt
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall '18\DoorPrize5416\DoorPrize5416\bld\Debug\ProjectArchitectures.txt

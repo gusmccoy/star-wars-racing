@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-J9HQ7LL</Machine>
+    <WindowsUser>Gus McCoy</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8947ef8b-7649-4159-897e-26a5ffb2d959</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Gus McCoy</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>909026B47C3D80CA0E70A7C98AC2425FBF15616931D713CCE27A65D4D2F93D86</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8947ef8b-7649-4159-897e-26a5ffb2d959_1.0.0.0_neutral__0q44451ccy0wy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8947ef8b-7649-4159-897e-26a5ffb2d959_0q44451ccy0wy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8947ef8b-7649-4159-897e-26a5ffb2d959</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Gus McCoy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-17T03:26:32.954</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-10-17T02:41:45.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-01-21T20:52:29.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-21T20:52:29.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-21T20:52:29.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-21T20:52:29.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-21T20:52:29.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-21T20:52:29.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-21T20:52:29.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\js\doorprize.js">
+      <PackagePath>js\doorprize.js</PackagePath>
+      <Modified>2018-10-17T03:13:35.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-10-01T19:08:10.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gus McCoy\Desktop\Comp Class Files\Comp 250 Fall %2718\DoorPrize5416\DoorPrize5416\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-17T03:26:32.718</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
